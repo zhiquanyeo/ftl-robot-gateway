@@ -1,0 +1,24 @@
+{
+  "name": "ftl-robot-gateway",
+  "version": "1.0.0",
+  "description": "Gateway to a ftl-ansible equipped robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiquanyeo/ftl-robot-gateway.git"
+  },
+  "author": "ZQ Yeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiquanyeo/ftl-robot-gateway/issues"
+  },
+  "homepage": "https://github.com/zhiquanyeo/ftl-robot-gateway#readme",
+  "dependencies": {
+    "command-line-args": "^4.0.6",
+    "mockery": "^2.1.0",
+    "winston": "^2.3.1"
+  }
+}
